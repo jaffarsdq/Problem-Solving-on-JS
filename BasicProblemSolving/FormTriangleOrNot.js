@@ -6,6 +6,6 @@ function isTriangle(a,b,c){
             }
 };
 
-let a = 7,b = 10,c = 3;
+let a = 7,b = 5,c = 3;
 isTriangle(a,b,c);
 console.log(isTriangle(a,b,c));
