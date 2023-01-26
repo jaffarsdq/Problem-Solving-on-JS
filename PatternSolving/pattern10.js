@@ -32,7 +32,7 @@ function pattern (n){
         for(let j=1 ; j<=spaces ; j++){
             str += " ";
         }
-        stars
+        //stars
         stars = i;
         for(let j=1 ; j<=stars ; j++){
             str += "*";
