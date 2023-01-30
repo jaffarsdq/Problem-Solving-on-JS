@@ -1,4 +1,3 @@
-//Problem-Solving-on-JS/BasicProblemSolving/frequencyOFcharacters.js
 let str = "jaffar";
 let freqMap = {};
 function freq(str) {
