@@ -14,6 +14,7 @@ function merge (arr ,lefti ,leftj ,righti ,rightj) {
     }
     let c = [];
     let i = 0,j = 0;
+    k = 0;
     while (i < a.length && j < b.length) {
         if(a[i] < b[j]) {
             c.push(a[i]);
