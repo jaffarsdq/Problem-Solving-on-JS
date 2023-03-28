@@ -47,5 +47,4 @@ function spiral(matrix) {
     return result;
     // console.log(result);
 }
-;
 console.log(spiral(matrix));
